@@ -1,0 +1,2 @@
+TelstraDxCkanFuseWebhdfs==0.7.12
+TelstraDxCkanDatastoreLib==0.0.5
